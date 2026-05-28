@@ -10,7 +10,7 @@
 # profesor :
 - Julian David Arias Londoño
 
-- # ejecucion del colab
+# ejecucion del colab
 - para la ejecucion del colab se puede realizar de dos maneras :
 - la primera es descargar el archivo llamado Analisis_churn_spotify.ipynb y subirlo a colab con la opcion subir  notebook una vez subido solo seria ejecutar cada celda del colab
 
@@ -18,7 +18,7 @@
 
 - https://colab.research.google.com/drive/1wCYvCxSRZiva09lW92ungAKoZTARZ6vO?usp=sharing
 
-- # video explicativo del proyecto
+# video explicativo del proyecto
 - 
 
 # Proyecto: 
