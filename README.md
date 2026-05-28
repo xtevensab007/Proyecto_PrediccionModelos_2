@@ -19,6 +19,9 @@
 - https://colab.research.google.com/drive/1wCYvCxSRZiva09lW92ungAKoZTARZ6vO?usp=sharing
 
 # video explicativo del proyecto
+
+- https://youtu.be/to2TojDbBP0
+
 - 
 
 # Proyecto: 
