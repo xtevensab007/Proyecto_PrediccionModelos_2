@@ -22,7 +22,7 @@
 
 - https://youtu.be/to2TojDbBP0
 
-- 
+- https://drive.google.com/file/d/189WAOfTt0_fvmTSNUxEGDVrPSvToKiBz/view?usp=sharing
 
 # Proyecto: 
 -Análisis de factores asociados al abandono de usuarios en Spotify.
