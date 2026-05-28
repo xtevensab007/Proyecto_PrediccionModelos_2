@@ -10,6 +10,17 @@
 # profesor :
 - Julian David Arias Londoño
 
+- # ejecucion del colab
+- para la ejecucion del colab se puede realizar de dos maneras :
+- la primera es descargar el archivo llamado Analisis_churn_spotify.ipynb y subirlo a colab con la opcion subir  notebook una vez subido solo seria ejecutar cada celda del colab
+
+- la segunda seria ingresando al siguiente link que es donde esta montado nuestro colab y simplemente ejecutar cada celda
+
+- https://colab.research.google.com/drive/1wCYvCxSRZiva09lW92ungAKoZTARZ6vO?usp=sharing
+
+- # video explicativo del proyecto
+- 
+
 # Proyecto: 
 -Análisis de factores asociados al abandono de usuarios en Spotify.
 
